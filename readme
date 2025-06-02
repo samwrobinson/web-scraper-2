@@ -1,0 +1,13 @@
+Hey everyone,
+
+This is a pretty simple scraper. I modified a version I found out online, so follow these steps to install:
+
+1) download the repo as a zip file
+2) unzip the file
+3) Open google chrome
+4) click on extensions
+5) Manage extensions
+6) Load Unpacked
+7) upload the whole folder
+8) add in your api Key
+
